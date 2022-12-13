@@ -1,2 +1,2 @@
-# This is my blog's background photoes.They come from https://dimtown.com/
+## This is the background photo of my blog. They are partly from https://dimtown.com/
 # 
